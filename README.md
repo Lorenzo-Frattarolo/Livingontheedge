@@ -35,6 +35,6 @@ Folder ASMC :
 - Uses SamplePack Version 0.5,  GSL,  BLAS and  CGAL 4.7
 - Main script ASMC/R/SQMC/ASMQPCMC.R
 - Plots ASMC/R/SQMC/ASMQPCMC_plots_2020.R
-References:
+- References:
 Chan, D., Kohn, R., and Kirby, C. (2006). Multivariate stochastic volatility models with correlated errors. Econometric Reviews, 25(2-3):245–274.
 Gerber, M. and Chopin, N. (2015). Sequential quasi monte carlo. Journal of theRoyal Statistical Society: Series B (Statistical Methodology), 77(3):509–579.
