@@ -11,6 +11,10 @@ Folder Sampling R:
 
 - R functions for generating random numbers under the different antithetic constructions described in the paper
 
+Folder Sampling Julia: 
+
+- Julia Function for generating random numbers under LH C({1}) 
+
 Folder Sampling C: 
 
 - C Function and Wrapper for generating random numbers under LH C({1}) 
